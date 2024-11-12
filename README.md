@@ -1,7 +1,7 @@
 # basic_js_project
-projects like <br> 
-calculator
-popUp message box
-QR code generator
-random password generator
+<li>projects  <br> 
+calculator<br>
+popUp message box<br>
+QR code generator<br>
+random password generator<br>
 news site
